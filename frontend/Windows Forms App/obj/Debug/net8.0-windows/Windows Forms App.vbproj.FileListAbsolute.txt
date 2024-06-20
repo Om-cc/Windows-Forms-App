@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\Windows Forms App\Windows Forms App\obj\Debug\net8.0-windows\Windows_Forms_App.Form1.resources
+C:\Users\hp\source\repos\Windows Forms App\Windows Forms App\obj\Debug\net8.0-windows\Windows Forms App.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\Windows Forms App\Windows Forms App\obj\Debug\net8.0-windows\Windows Forms App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Windows Forms App\Windows Forms App\obj\Debug\net8.0-windows\Windows Forms App.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Windows Forms App\Windows Forms App\obj\Debug\net8.0-windows\Windows Forms App.AssemblyInfo.vb
+C:\Users\hp\source\repos\Windows Forms App\Windows Forms App\obj\Debug\net8.0-windows\Windows Forms App.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Windows Forms App\Windows Forms App\bin\Debug\net8.0-windows\Windows Forms App.exe
+C:\Users\hp\source\repos\Windows Forms App\Windows Forms App\bin\Debug\net8.0-windows\Windows Forms App.deps.json
+C:\Users\hp\source\repos\Windows Forms App\Windows Forms App\bin\Debug\net8.0-windows\Windows Forms App.runtimeconfig.json
+C:\Users\hp\source\repos\Windows Forms App\Windows Forms App\bin\Debug\net8.0-windows\Windows Forms App.dll
+C:\Users\hp\source\repos\Windows Forms App\Windows Forms App\bin\Debug\net8.0-windows\Windows Forms App.pdb
+C:\Users\hp\source\repos\Windows Forms App\Windows Forms App\obj\Debug\net8.0-windows\Windows Forms App.dll
+C:\Users\hp\source\repos\Windows Forms App\Windows Forms App\obj\Debug\net8.0-windows\refint\Windows Forms App.dll
+C:\Users\hp\source\repos\Windows Forms App\Windows Forms App\obj\Debug\net8.0-windows\Windows Forms App.pdb
+C:\Users\hp\source\repos\Windows Forms App\Windows Forms App\obj\Debug\net8.0-windows\Windows Forms App.genruntimeconfig.cache
+C:\Users\hp\source\repos\Windows Forms App\Windows Forms App\obj\Debug\net8.0-windows\ref\Windows Forms App.dll
