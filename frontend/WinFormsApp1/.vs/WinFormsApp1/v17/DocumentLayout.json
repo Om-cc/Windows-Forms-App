@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2514ED2A-2E51-480A-97D7-D52F662C913A}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\hp\\source\\repos\\winformsapp1\\winformsapp1\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2514ED2A-2E51-480A-97D7-D52F662C913A}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2514ED2A-2E51-480A-97D7-D52F662C913A}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\hp\\source\\repos\\winformsapp1\\winformsapp1\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2514ED2A-2E51-480A-97D7-D52F662C913A}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2514ED2A-2E51-480A-97D7-D52F662C913A}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\hp\\source\\repos\\winformsapp1\\winformsapp1\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2514ED2A-2E51-480A-97D7-D52F662C913A}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2514ED2A-2E51-480A-97D7-D52F662C913A}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\hp\\source\\repos\\winformsapp1\\winformsapp1\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2514ED2A-2E51-480A-97D7-D52F662C913A}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2514ED2A-2E51-480A-97D7-D52F662C913A}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\hp\\source\\repos\\winformsapp1\\winformsapp1\\mainform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2514ED2A-2E51-480A-97D7-D52F662C913A}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\mainform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2514ED2A-2E51-480A-97D7-D52F662C913A}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\hp\\source\\repos\\winformsapp1\\winformsapp1\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2514ED2A-2E51-480A-97D7-D52F662C913A}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2514ED2A-2E51-480A-97D7-D52F662C913A}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\hp\\source\\repos\\winformsapp1\\winformsapp1\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2514ED2A-2E51-480A-97D7-D52F662C913A}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WinFormsApp1\\WinFormsApp1\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WinFormsApp1\\WinFormsApp1\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "WinFormsApp1\\ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T20:17:19.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WinFormsApp1\\WinFormsApp1\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WinFormsApp1\\WinFormsApp1\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T20:15:00.41Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSubmissionForm.vb",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WinFormsApp1\\WinFormsApp1\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WinFormsApp1\\WinFormsApp1\\CreateSubmissionForm.vb",
+              "RelativeToolTip": "WinFormsApp1\\CreateSubmissionForm.vb",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T20:06:24.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateSubmissionForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WinFormsApp1\\WinFormsApp1\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WinFormsApp1\\WinFormsApp1\\CreateSubmissionForm.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\CreateSubmissionForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T20:05:09.896Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WinFormsApp1\\WinFormsApp1\\MainForm.Designer.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\MainForm.Designer.vb",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WinFormsApp1\\WinFormsApp1\\MainForm.Designer.vb",
+              "RelativeToolTip": "WinFormsApp1\\MainForm.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T19:51:26.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.vb",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WinFormsApp1\\WinFormsApp1\\MainForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\MainForm.vb",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WinFormsApp1\\WinFormsApp1\\MainForm.vb",
+              "RelativeToolTip": "WinFormsApp1\\MainForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T19:51:40.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WinFormsApp1\\WinFormsApp1\\MainForm.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\MainForm.vb",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WinFormsApp1\\WinFormsApp1\\MainForm.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T19:39:51.076Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
